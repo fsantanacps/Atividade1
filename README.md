@@ -1,4 +1,4 @@
-# Atividade1
+﻿# Atividade1
 git config --global user.name
 git config --global user.email
 git add .
@@ -12,3 +12,5 @@ git checkout -b
 git merge
 git tag -a v1.0 -m
 git push origin --tags
+
+add comando git log
